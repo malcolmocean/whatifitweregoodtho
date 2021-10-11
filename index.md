@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## What if it were good tho?
 
-You can use the [editor on GitHub](https://github.com/malcolmocean/whatifitweregoodtho/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Have you considered... what if it were good tho?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A remarkable amount of products are released without anyone ever considering this question, in regard to most aspects of the product. See [this rant about how almost nothing is actually designed](https://twitter.com/Malcolm_Ocean/status/1368295691185909764).
 
-### Markdown
+I have taken the time to consider, for several things, "what if it were good tho?"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site is an ongoing index of what I imagine things would be like if they were good.
 
-```markdown
-Syntax highlighted code block
+### Videos
 
-# Header 1
-## Header 2
-### Header 3
+1. [Sunrise Alarm product review rant](https://www.youtube.com/watch?v=VCyQujRZoEs)
+2. [A Good Microwave Needs a Good Knob](https://www.youtube.com/watch?v=qy6BOQLo4XA)
 
-- Bulleted
-- List
+### Twitter threads (mostly but not entirely by me)
 
-1. Numbered
-2. List
+1. [meta-thread: Things I Want To Exist](https://twitter.com/Malcolm_Ocean/status/1151673122879352839)
+2. ["what would twitter be like if it were actually optimized for conversation?"](https://twitter.com/Malcolm_Ocean/status/1151672290150703104)
+3. ["increase in podcast content but zero improvements in the tools we use to consume them and parse their content"](https://twitter.com/PorterhouseMD/status/1102413889763913728)
+4. ["a better app for reading digital text"](https://twitter.com/Malcolm_Ocean/status/1151668196031774720)
+5. ["An integrated multi-structure content editor"](https://twitter.com/Malcolm_Ocean/status/1156423522836766721)
+6. [why are audio streaming services all boring and stuck in old metaphors of "playlists" and "radio"](https://twitter.com/Malcolm_Ocean/status/1274815465920004097)
+7. [this site](https://twitter.com/Malcolm_Ocean/status/1436785606701436928) (which is not yet this good but at least [exists](https://twitter.com/visakanv/status/1447442956789501954))
+8. ["What if search engines were good tho?"](https://twitter.com/Malcolm_Ocean/status/1436514512622874626)
+9. ["brb just reinventing the entire concept of web browser"](https://twitter.com/Malcolm_Ocean/status/1343323761991241729)
+10. ["Time to put on Hot Like Sauce and ideate for 7 minutes about an alternative Twitter DM system."](https://twitter.com/Malcolm_Ocean/status/1405067165133246467)
 
-**Bold** and _Italic_ and `Code` text
+### Design docs on my roamblog (all drafts, some more complete than others)
 
-[Link](url) and ![Image](src)
-```
+1. [What if slack were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/Tbh3Tm5ju)
+2. [What if email were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/PYGImrOGs)
+3. [What if teamwork apps were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/Styq-hx5Z)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Other epic reimaginings
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/malcolmocean/whatifitweregoodtho/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Max Krieger: What if chat were good though? "can we augment our online chats with new affordances? what does a conversational medium that supports *thinking* look like? Is there a pathway from the linear, one-dimensional, immutable logs we call "online conversation"?" [I made a comic](https://a9.io/glue-comic/)
+2. Bret Victor: What if coding were good though? "creators need to be able to see what they're doing". here's a [video](https://www.programmingtalks.org/talk/inventing-on-principle), though he has many other resources.
