@@ -8,6 +8,10 @@ I have taken the time to consider, for several things, "what if it were good tho
 
 This site is an ongoing index of what I imagine things would be like if they were good.
 
+### Actual products
+
+1. [What if to-do list apps were good tho?](https://complice.co/?utm_source=whatifitweregoodtho&utm_medium=whatifitweregoodtho&utm_content=link)
+
 ### Videos
 
 1. [Sunrise Alarm product review rant](https://www.youtube.com/watch?v=VCyQujRZoEs)
@@ -25,7 +29,7 @@ This site is an ongoing index of what I imagine things would be like if they wer
 8. ["What if search engines were good tho?"](https://twitter.com/Malcolm_Ocean/status/1436514512622874626)
 9. ["brb just reinventing the entire concept of web browser"](https://twitter.com/Malcolm_Ocean/status/1343323761991241729)
 10. ["Time to put on Hot Like Sauce and ideate for 7 minutes about an alternative Twitter DM system."](https://twitter.com/Malcolm_Ocean/status/1405067165133246467)
-11. [100 tweets on "what if it were good tho?" (for @threadapalooza 2021)](https://twitter.com/Malcolm_Ocean/status/1466505140219744261) (100 different things)
+11. [100 tweets on "what if it were good tho?" (for @threadapalooza 2021)](https://twitter.com/Malcolm_Ocean/status/1466505140219744261) (100 different things, mostly suggested by friends, not all of which are products)
 
 ### Design docs on my roamblog (all drafts, some more complete than others)
 
