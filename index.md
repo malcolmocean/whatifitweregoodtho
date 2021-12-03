@@ -25,12 +25,14 @@ This site is an ongoing index of what I imagine things would be like if they wer
 8. ["What if search engines were good tho?"](https://twitter.com/Malcolm_Ocean/status/1436514512622874626)
 9. ["brb just reinventing the entire concept of web browser"](https://twitter.com/Malcolm_Ocean/status/1343323761991241729)
 10. ["Time to put on Hot Like Sauce and ideate for 7 minutes about an alternative Twitter DM system."](https://twitter.com/Malcolm_Ocean/status/1405067165133246467)
+11. [100 tweets on "what if it were good tho?" (for @threadapalooza 2021)](https://twitter.com/Malcolm_Ocean/status/1466505140219744261) (100 different things)
 
 ### Design docs on my roamblog (all drafts, some more complete than others)
 
-1. [What if slack were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/Tbh3Tm5ju)
+1. [What if Slack were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/Tbh3Tm5ju)
 2. [What if email were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/PYGImrOGs)
 3. [What if teamwork apps were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/Styq-hx5Z)
+4. [What if Twitter were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/4GnGMR9Jw)
 
 ### Other epic reimaginings
 
