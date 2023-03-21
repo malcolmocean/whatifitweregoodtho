@@ -40,7 +40,11 @@ This site is an ongoing index of what I imagine things would be like if they wer
 3. [What if teamwork apps were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/Styq-hx5Z)
 4. [What if Twitter were good tho?](https://www.intertwingled.blog/#/app/malcolmocean/page/4GnGMR9Jw)
 
-### Other epic reimaginings
+### Other writings by Malcolm
+
+1. [What if GitHub Forks View were good tho?](https://github.com/community/community/discussions/40968#discussioncomment-5382752) (I've had this rant in me for awhile, and GH recently asked for feedback, so I gave it!)
+
+### Other epic reimaginings, not by Malcolm
 
 1. Max Krieger: What if chat were good though? "can we augment our online chats with new affordances? what does a conversational medium that supports *thinking* look like? Is there a pathway from the linear, one-dimensional, immutable logs we call "online conversation"?" [I made a comic](https://a9.io/glue-comic/)
 2. Bret Victor: What if coding were good though? "creators need to be able to see what they're doing". here's a [video](https://www.programmingtalks.org/talk/inventing-on-principle), though he has many other resources.
