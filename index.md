@@ -10,7 +10,7 @@ This site is an ongoing index of what I imagine things would be like if they wer
 
 ### Actual products
 
-1. [What if to-do list apps were good tho?](https://complice.co/?utm_source=whatifitweregoodtho&utm_medium=whatifitweregoodtho&utm_content=link)
+1. [What if to-do list apps were good tho?](https://intend.do/?utm_source=whatifitweregoodtho&utm_medium=whatifitweregoodtho&utm_content=link)
 
 ### Videos
 
